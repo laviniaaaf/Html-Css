@@ -1,0 +1,50 @@
+h1{
+    font-size: 55px;
+    text-align: center;
+    font-family: serif, sans-serif;
+}
+
+li {
+    width: 19%;
+    display: inline-block;
+    font-size: 25px;
+    vertical-align: middle;
+    text-align: middle;
+    font-family: serif, sans-serif;
+}
+
+div {
+    font-size: 50px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 39px;
+    text-align: center;
+    font-family: serif, sans-serif;
+}
+
+html {
+    background-color: #fadfea;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f6c0d6;
+    padding: 0 30px 34px 30px;
+    border: 3px solid black;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+#borboleta img{
+    width: 98;
+    height: 87;
+}
